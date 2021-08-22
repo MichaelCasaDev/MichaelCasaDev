@@ -19,4 +19,4 @@ I live in 🇮🇹 Italy and I'm studing computer engineering.
 You can reach me here
 - [Twitter](https://www.twitter.com/MichaelDevC)
 - [GitHub](https://www.github.com/MichaelDevC)
-- [Instagram](https://www.instagram.com/michael.casagrande)
+- [Instagram](https://www.instagram.com/michael.casagrande_)
