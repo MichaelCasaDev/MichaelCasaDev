@@ -2,12 +2,8 @@
 
 ⚡️Building the **Future**!
 
-<br>
-
  ⚙️ *Web Developer & Student*
  
-💻 *MacBook user*
-
 <br />
 
 ### About Me
