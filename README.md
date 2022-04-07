@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm Michael, I'm 17 and I love coding!
+I'm Michael, I'm 18 and I love coding!
 I live in 🇮🇹 Italy and I'm studing computer engineering.
 
 ### Contact Me
