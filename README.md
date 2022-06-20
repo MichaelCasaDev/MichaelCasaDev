@@ -2,7 +2,7 @@
 
 ⚡️Building the **Future**!
 
- ⚙️ *Web Developer & Student*
+ ⚙️ *Full stack Web Developer & Student*
  
 <br />
 
