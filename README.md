@@ -2,14 +2,14 @@
 
 ⚡️Building the **Future**!
 
- ⚙️ *Full stack Web Developer & Student*
+ ⚙️ *Full stack Web Developer*
  
 <br />
 
 ### About Me
 
-I'm Michael, I'm 18 and I love coding!
-I live in 🇮🇹 Italy and I'm studing computer engineering.
+I'm Michael, I'm 19 and I love coding!
+I live in 🇮🇹 Italy.
 
 ### Contact Me
 You can reach me here
